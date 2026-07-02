@@ -215,25 +215,7 @@ Training observations:
 ---
 
 #  Results
-
-### Generated Faces
-
-> Add your `epoch_100.png` here.
-
-```
-outputs/generated/epoch_100.png
-```
-
-### Training Loss
-
-> Add your generated loss plot here.
-
-```
-outputs/plots/loss.png
-```
-
----
-
+Results are in assests folder
 #  Installation
 
 Clone the repository
